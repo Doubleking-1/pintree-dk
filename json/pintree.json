@@ -1,0 +1,2508 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1728490162506,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1726975247767,
+        "title": "北师",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "北京师范大学上网认证网关",
+            "icon": "https://logo.clearbit.com/172.16.202.204",
+            "url": "http://172.16.202.204/srun_portal_pc?ac_id=1&theme=bnu"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "首页 | 研究生管理服务系统",
+            "icon": "https://logo.clearbit.com/ss.graduate.bnu.edu.cn",
+            "url": "http://ss.graduate.bnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "首页 | 公共外语管理平台",
+            "icon": "https://logo.clearbit.com/gongwai.ss.graduate.bnu.edu.cn",
+            "url": "http://gongwai.ss.graduate.bnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "数字京师",
+            "icon": "https://logo.clearbit.com/one.bnu.edu.cn",
+            "url": "https://one.bnu.edu.cn/dcp/forward.action?path=/portal/portal&p=home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "北京师范大学-学生邮件系统",
+            "icon": "https://logo.clearbit.com/mail.bnu.edu.cn",
+            "url": "https://mail.bnu.edu.cn/?hl=zh_CN&webmailhost=mailhz.qiye.163.com&all_secure=1&ch=&msg=ERR.LOGIN.PASSERR&from=hz"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "北京师范大学SSL VPN系统 - 主页",
+            "icon": "https://logo.clearbit.com/sslvpn.bnu.edu.cn",
+            "url": "https://sslvpn.bnu.edu.cn/dana/home/index.cgi"
+          },
+          {
+            "type": "link",
+            "addDate": 1725609949000,
+            "title": "北京师范大学外文学院公共外语教学研究部",
+            "icon": "https://logo.clearbit.com/ggwy.bnu.edu.cn",
+            "url": "https://ggwy.bnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728549958588,
+            "title": "财务网上查询系统",
+            "icon": "https://logo.clearbit.com/cjxx.bnu.edu.cn",
+            "url": "http://cjxx.bnu.edu.cn/zl/tjtb"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247768,
+        "title": "GW-web",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "GWOSC",
+            "icon": "https://logo.clearbit.com/www.gw-openscience.org",
+            "url": "https://www.gw-openscience.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "GWOSC documentation",
+            "icon": "https://logo.clearbit.com/gwosc.readthedocs.io",
+            "url": "https://gwosc.readthedocs.io/en/latest/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "LIGO page",
+            "icon": "https://logo.clearbit.com/www.ligo.caltech.edu",
+            "url": "https://www.ligo.caltech.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "LISA page",
+            "icon": "https://logo.clearbit.com/www.elisascience.org",
+            "url": "https://www.elisascience.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "SXS Gravitational Waveform Database",
+            "icon": "https://logo.clearbit.com/data.black-holes.org",
+            "url": "https://data.black-holes.org/waveforms/catalog.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "SXS catalog",
+            "icon": "https://logo.clearbit.com/www.black-holes.org",
+            "url": "https://www.black-holes.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Welcome | Center for Computational Relativity and Gravitation (CCRG)",
+            "icon": "https://logo.clearbit.com/ccrg.rit.edu",
+            "url": "https://ccrg.rit.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "RIT catalog",
+            "icon": "https://logo.clearbit.com/ccrgpages.rit.edu",
+            "url": "https://ccrgpages.rit.edu/~RITCatalog/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "GW Open Science Center",
+            "icon": "https://logo.clearbit.com/gwosc.org",
+            "url": "https://gwosc.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "PyCBC documentation",
+            "icon": "https://logo.clearbit.com/pycbc.org",
+            "url": "http://pycbc.org/pycbc/latest/html/waveform.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "pyseobnr documentation",
+            "icon": "https://logo.clearbit.com/waveforms.docs.ligo.org",
+            "url": "https://waveforms.docs.ligo.org/software/pyseobnr/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "SXS documentation",
+            "icon": "https://logo.clearbit.com/sxs.readthedocs.io",
+            "url": "https://sxs.readthedocs.io/en/main/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "bilby documentation",
+            "icon": "https://logo.clearbit.com/lscsoft.docs.ligo.org",
+            "url": "https://lscsoft.docs.ligo.org/bilby/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "LALSuite documentation",
+            "icon": "https://logo.clearbit.com/lscsoft.docs.ligo.org",
+            "url": "https://lscsoft.docs.ligo.org/lalsuite/lalsuite/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "GWpy documentation",
+            "icon": "https://logo.clearbit.com/gwpy.github.io",
+            "url": "https://gwpy.github.io/docs/stable/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247767,
+        "title": "科研",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "维基百科",
+            "icon": "https://logo.clearbit.com/zh.wikipedia.org",
+            "url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Google学术",
+            "icon": "https://logo.clearbit.com/scholar.google.com.hk",
+            "url": "https://scholar.google.com.hk/?hl=zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "深度学术搜索",
+            "icon": "https://logo.clearbit.com/xs.dailyheadlines.cc",
+            "url": "https://xs.dailyheadlines.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Engineering LibreTexts",
+            "icon": "https://logo.clearbit.com/eng.libretexts.org",
+            "url": "https://eng.libretexts.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Library Genesis",
+            "icon": "https://logo.clearbit.com/libgen.rs",
+            "url": "https://libgen.rs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Zlibrary",
+            "icon": "https://logo.clearbit.com/book4you.org",
+            "url": "https://book4you.org/?signAll=1&ts=0915"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "arXiv",
+            "icon": "https://logo.clearbit.com/arxiv.org",
+            "url": "https://arxiv.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Sci-Hub",
+            "icon": "https://logo.clearbit.com/sci-hub.hkvisa.net",
+            "url": "https://sci-hub.hkvisa.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "NASA/IPAC",
+            "icon": "https://logo.clearbit.com/ned.ipac.caltech.edu",
+            "url": "https://ned.ipac.caltech.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "NASA/ADS",
+            "icon": "https://logo.clearbit.com/ui.adsabs.harvard.edu",
+            "url": "https://ui.adsabs.harvard.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Astrodict | NADC",
+            "icon": "https://logo.clearbit.com/nadc.china-vo.org",
+            "url": "https://nadc.china-vo.org/astrodict/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "TOPCAT",
+            "icon": "https://logo.clearbit.com/www.star.bris.ac.uk",
+            "url": "http://www.star.bris.ac.uk/~mbt/topcat/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Gravitational Memory Effects: From Theory to Observation",
+            "icon": "https://logo.clearbit.com/sites.google.com",
+            "url": "https://sites.google.com/view/gw-memory/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Signal Processing Stack Exchange",
+            "icon": "https://logo.clearbit.com/dsp.stackexchange.com",
+            "url": "https://dsp.stackexchange.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Physics Stack Exchange",
+            "icon": "https://logo.clearbit.com/physics.stackexchange.com",
+            "url": "https://physics.stackexchange.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "论文平台",
+            "icon": "https://logo.clearbit.com/www.giiisp.com",
+            "url": "https://www.giiisp.com/#/sys/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "ScholarOne Manuscripts",
+            "icon": "https://logo.clearbit.com/mc03.manuscriptcentral.com",
+            "url": "https://mc03.manuscriptcentral.com/ctphys"
+          },
+          {
+            "type": "link",
+            "addDate": 1724907014000,
+            "title": " SCI Great",
+            "icon": "https://logo.clearbit.com/www.scigreat.com",
+            "url": "https://www.scigreat.com/user"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247769,
+        "title": "Learning",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726975247769,
+            "title": "Eng",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "Listen A Minute",
+                "icon": "https://logo.clearbit.com/listenaminute.com",
+                "url": "https://listenaminute.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "Breaking News English Lessons: Easy English World News Materials - ESL",
+                "icon": "https://logo.clearbit.com/breakingnewsenglish.com",
+                "url": "https://breakingnewsenglish.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "VOA_美国之音_VOA在线收听和听力下载 - VOA英语学习网",
+                "icon": "https://logo.clearbit.com/www.chinavoa.com",
+                "url": "https://www.chinavoa.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "TED: Ideas Worth Spreading",
+                "icon": "https://logo.clearbit.com/www.ted.com",
+                "url": "https://www.ted.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "普特英语首页",
+                "icon": "https://logo.clearbit.com/www.putclub.com",
+                "url": "https://www.putclub.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "英语外刊阅读库 共224篇文章",
+                "icon": "https://logo.clearbit.com/flowus.cn",
+                "url": "https://flowus.cn/share/386e36bb-e39f-45ea-bc61-0d324090f20d?promotionChannel=BZ_zcl_20"
+              },
+              {
+                "type": "link",
+                "addDate": 1726849740000,
+                "title": "China Daily Website - Connecting China Connecting the World",
+                "icon": "https://logo.clearbit.com/www.chinadaily.com.cn",
+                "url": "https://www.chinadaily.com.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726924778000,
+                "title": "英语写作教学与评阅系统",
+                "icon": "https://logo.clearbit.com/iwrite.unipus.cn",
+                "url": "https://iwrite.unipus.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726975247769,
+            "title": "Jap",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "Weblio辞書",
+                "icon": "https://logo.clearbit.com/www.weblio.jp",
+                "url": "https://www.weblio.jp/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "OJAD ",
+                "icon": "https://logo.clearbit.com/www.gavo.t.u-tokyo.ac.jp",
+                "url": "https://www.gavo.t.u-tokyo.ac.jp/ojad/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "日本語作文支援システム「なつめ」(Natsume)",
+                "icon": "https://logo.clearbit.com/hinoki-project.org",
+                "url": "https://hinoki-project.org/natsume/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "青空朗読 | 青空文庫に所蔵されている本を朗読しています",
+                "icon": "https://logo.clearbit.com/aozoraroudoku.jp",
+                "url": "http://aozoraroudoku.jp/"
+              },
+              {
+                "type": "link",
+                "addDate": 1729510325130,
+                "title": "毎日のんびり日本語教師 | 日本語のことを発信してます",
+                "icon": "https://logo.clearbit.com/mainichi-nonbiri.com",
+                "url": "https://mainichi-nonbiri.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Search | MIT OpenCourseWare | Free Online Course Materials",
+            "icon": "https://logo.clearbit.com/ocw.mit.edu",
+            "url": "https://ocw.mit.edu/search/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "寇享",
+            "icon": "https://logo.clearbit.com/www.koushare.com",
+            "url": "https://www.koushare.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Astronomy 498",
+            "icon": "https://logo.clearbit.com/www.astro.umd.edu",
+            "url": "https://www.astro.umd.edu/~miller/teaching/astr498/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Front Matter",
+            "icon": "https://logo.clearbit.com/textbooks.math.gatech.edu",
+            "url": "https://textbooks.math.gatech.edu/ila/index2.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "用户首页 | 欧路词典",
+            "icon": "https://logo.clearbit.com/my.eudic.net",
+            "url": "http://my.eudic.net/home/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Physics-based Deep Learning",
+            "icon": "https://logo.clearbit.com/physicsbaseddeeplearning.org",
+            "url": "https://physicsbaseddeeplearning.org/intro.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "LINUX-TUTORIAL",
+            "icon": "https://logo.clearbit.com/turnon.gitee.io",
+            "url": "https://turnon.gitee.io/linux-tutorial/#linux-%E5%91%BD%E4%BB%A4"
+          },
+          {
+            "type": "link",
+            "addDate": 1729058486152,
+            "title": "多米诺骨牌 - MarsCode",
+            "icon": "https://logo.clearbit.com/www.marscode.cn",
+            "url": "https://www.marscode.cn/practice/r3j1l269y8n9er?problem_no="
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247768,
+        "title": "blogs",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1729346560930,
+            "title": "----------",
+            "icon": "https://logo.clearbit.com/",
+            "url": "about:blank?15314"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "卢昌海个人主页",
+            "icon": "https://logo.clearbit.com/www.changhai.org",
+            "url": "https://www.changhai.org/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Jacky's blogs",
+            "icon": "https://logo.clearbit.com/wangjs-jacky.github.io",
+            "url": "https://wangjs-jacky.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Astro-GR – Pau Amaro Seoane",
+            "icon": "https://logo.clearbit.com/astro-gr.org",
+            "url": "https://astro-gr.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "快乐中微子",
+            "icon": "https://logo.clearbit.com/astronomy.lamost.org",
+            "url": "http://astronomy.lamost.org/blog/?page_id=2"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Digital Einstein Papers Home",
+            "icon": "https://logo.clearbit.com/einsteinpapers.press.princeton.edu",
+            "url": "https://einsteinpapers.press.princeton.edu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Gravitational Waves Data Analysis | A Quest After Perspectives",
+            "icon": "https://logo.clearbit.com/iphysresearch.github.io",
+            "url": "https://iphysresearch.github.io/blog/project/gwda/#mathematics"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "星明天文台 – 国内外享有盛誉的业余天文台，在这里汇聚了众多的顶尖爱好者。我们致力于彗星，小行星，超新星，新星等各类新天体的发现。",
+            "icon": "https://logo.clearbit.com/xjltp.china-vo.org",
+            "url": "http://xjltp.china-vo.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "GWDL",
+            "icon": "https://logo.clearbit.com/iphysresearch.github.io",
+            "url": "https://iphysresearch.github.io/PhDthesis_html/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "主页 - Bryan's Blog / 博客",
+            "icon": "https://logo.clearbit.com/bryango.github.io",
+            "url": "https://bryango.github.io/"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1729346584304,
+        "title": "---- 工具 ----",
+        "icon": "https://logo.clearbit.com/",
+        "url": "about:blank?46205"
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247770,
+        "title": "tools",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1726975247770,
+            "title": "Writing",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "SimpleTex主页——致力于提供先进的公式识别/文档识别解决方案",
+                "icon": "https://logo.clearbit.com/simpletex.cn",
+                "url": "https://simpletex.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "Paraphrasing Tool | QuillBot AI",
+                "icon": "https://logo.clearbit.com/quillbot.com",
+                "url": "https://quillbot.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "在线LaTeX公式编辑器-编辑器",
+                "icon": "https://logo.clearbit.com/www.latexlive.com",
+                "url": "https://www.latexlive.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "2.4.1 String literals",
+                "icon": "https://logo.clearbit.com/docs.python.org",
+                "url": "https://docs.python.org/2.0/ref/strings.html"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1725890649000,
+            "title": "PDF24 Creator - 下载 - 100%免费 - PDF24 Tools",
+            "icon": "https://logo.clearbit.com/tools.pdf24.org",
+            "url": "https://tools.pdf24.org/zh/creator#installed"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "DeepL翻译：全世界最准确的翻译",
+            "icon": "https://logo.clearbit.com/www.deepl.com",
+            "url": "https://www.deepl.com/translator"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Linguee | Dictionary for German, French, Spanish, and more",
+            "icon": "https://logo.clearbit.com/www.linguee.com",
+            "url": "https://www.linguee.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726923084000,
+            "title": "StringNet Navigator 4.0 - NCU",
+            "icon": "https://logo.clearbit.com/nav4.stringnet.org",
+            "url": "http://nav4.stringnet.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Mermaid | Diagramming and charting tool",
+            "icon": "https://logo.clearbit.com/mermaid.js.org",
+            "url": "https://mermaid.js.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728718353475,
+            "title": "唧唧-哔哩哔哩唧唧-bilibili视频|弹幕在线下载",
+            "icon": "https://logo.clearbit.com/www.jijidown.com",
+            "url": "https://www.jijidown.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247772,
+        "title": "Other",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "AirPortal 空投快传",
+            "icon": "https://logo.clearbit.com/airportal.cn",
+            "url": "https://airportal.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "极简插件",
+            "icon": "https://logo.clearbit.com/chrome.zzzmh.cn",
+            "url": "https://chrome.zzzmh.cn/#/extension"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Extensions",
+            "icon": "https://logo.clearbit.com/extensions",
+            "url": "chrome://extensions/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "闪击PPT - 高效内容演示",
+            "icon": "https://logo.clearbit.com/ppt.sankki.com",
+            "url": "https://ppt.sankki.com/#/works"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "TeraCLOUD",
+            "icon": "https://logo.clearbit.com/teracloud.jp",
+            "url": "https://teracloud.jp/en/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Chrome 应用商店 - 扩展程序",
+            "icon": "https://logo.clearbit.com/chrome.google.com",
+            "url": "https://chrome.google.com/webstore/category/extensions?hl=zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "我的云端硬盘 - Google 云端硬盘",
+            "icon": "https://logo.clearbit.com/drive.google.com",
+            "url": "https://drive.google.com/drive/my-drive"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "QQ邮箱",
+            "icon": "https://logo.clearbit.com/mail.qq.com",
+            "url": "https://mail.qq.com/cgi-bin/frame_html?sid=N53HrCH_IbXAXW4K&r=8ee725c24603d7da3728127204ac7db8&lang=zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Zotero中文社区",
+            "icon": "https://logo.clearbit.com/zotero-chinese.gitee.io",
+            "url": "https://zotero-chinese.gitee.io/zotero-plugins/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "火山引擎控制台",
+            "icon": "https://logo.clearbit.com/console.volcengine.com",
+            "url": "https://console.volcengine.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "在线PDF转Word_PDF转换成Word_福昕PDF在线转换器",
+            "icon": "https://logo.clearbit.com/www.pdf365.cn",
+            "url": "https://www.pdf365.cn/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1726975247773,
+            "title": "vpn",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "魔戒.net",
+                "icon": "https://logo.clearbit.com/www.mojie.mx",
+                "url": "https://www.mojie.mx/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "火星联盟",
+                "icon": "https://logo.clearbit.com/hxlm.cc",
+                "url": "https://hxlm.cc/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "大菠萝",
+                "icon": "https://logo.clearbit.com/ndaboluo.uuufo.xyz",
+                "url": "https://ndaboluo.uuufo.xyz/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "八戒",
+                "icon": "https://logo.clearbit.com/bajie.pw",
+                "url": "http://bajie.pw/#/dashboard"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726975247773,
+            "title": "下载视频",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "cobalt",
+                "icon": "https://logo.clearbit.com/cobalt.tools",
+                "url": "https://cobalt.tools/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1726975247773,
+            "title": "电影",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "movie-web",
+                "icon": "https://logo.clearbit.com/movie-web.app",
+                "url": "https://movie-web.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724767116000,
+                "title": "茶杯狐 Cupfox - 努力让找电影变得简单",
+                "icon": "https://logo.clearbit.com/cupfox.app",
+                "url": "https://cupfox.app/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726975247770,
+        "title": "OpenAI",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "New chat",
+            "icon": "https://logo.clearbit.com/chat.openai.com",
+            "url": "https://chat.openai.com/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "ChatGPT_rawchat",
+            "icon": "https://logo.clearbit.com/chat.rawchat.top",
+            "url": "https://chat.rawchat.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "ChuanhuChatGPT - a Hugging Face Space by DouKing",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/DouKing/ChuanhuChatGPT"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "ChatPDF - Chat with any PDF!",
+            "icon": "https://logo.clearbit.com/www.chatpdf.com",
+            "url": "https://www.chatpdf.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Chat2Doc - 您阅读文档的好帮手",
+            "icon": "https://logo.clearbit.com/chat2doc.cn",
+            "url": "https://chat2doc.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Overview - OpenAI API",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/overview"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Sage - Poe",
+            "icon": "https://logo.clearbit.com/poe.com",
+            "url": "https://poe.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "AI聊天 - 伯乐AI - 免费AI聊天绘画",
+            "icon": "https://logo.clearbit.com/ai.199.chat",
+            "url": "https://ai.199.chat/ai_chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "TXYZ - Chat With Knowledge",
+            "icon": "https://logo.clearbit.com/txyz.ai",
+            "url": "https://txyz.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "首页 | 佩奇GPT商店",
+            "icon": "https://logo.clearbit.com/peiqishop.me",
+            "url": "https://peiqishop.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "查询用量",
+            "icon": "https://logo.clearbit.com/api.chatanywhere.org",
+            "url": "https://api.chatanywhere.org/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "AutoML & Tuning | FLAML",
+            "icon": "https://logo.clearbit.com/microsoft.github.io",
+            "url": "https://microsoft.github.io/FLAML/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "AutoGen | AutoGen",
+            "icon": "https://logo.clearbit.com/microsoft.github.io",
+            "url": "https://microsoft.github.io/autogen/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Bard",
+            "icon": "https://logo.clearbit.com/bard.google.com",
+            "url": "https://bard.google.com/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "BibiGPT · AI 音视频内容一键总结",
+            "icon": "https://logo.clearbit.com/bibigpt.co",
+            "url": "https://bibigpt.co/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "NovaAI - Make AI Open Again",
+            "icon": "https://logo.clearbit.com/nova-oss.com",
+            "url": "https://nova-oss.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Call Annie",
+            "icon": "https://logo.clearbit.com/callannie.ai",
+            "url": "https://callannie.ai/call"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "伊莉思AGI-构建多模态AGI生产力/学习助手",
+            "icon": "https://logo.clearbit.com/ylsagi.com",
+            "url": "https://ylsagi.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Perplexity",
+            "icon": "https://logo.clearbit.com/www.perplexity.ai",
+            "url": "https://www.perplexity.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724767116000,
+            "title": "Chat with Open Large Language Models",
+            "icon": "https://logo.clearbit.com/arena.lmsys.org",
+            "url": "https://arena.lmsys.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726623921000,
+            "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726624528000,
+            "title": "首页 - 通义听悟",
+            "icon": "https://logo.clearbit.com/tingwu.aliyun.com",
+            "url": "https://tingwu.aliyun.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1726627402000,
+            "title": "Aide | 在 VSCode 中征服任何代码",
+            "icon": "https://logo.clearbit.com/aide.nicepkg.cn",
+            "url": "https://aide.nicepkg.cn/zh/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726909759000,
+            "title": "Aide Shell API",
+            "icon": "https://logo.clearbit.com/vip.zyai.online",
+            "url": "https://vip.zyai.online/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728231776479,
+            "title": "Codeium ",
+            "icon": "https://logo.clearbit.com/codeium.com",
+            "url": "https://codeium.com/profile"
+          },
+          {
+            "type": "link",
+            "addDate": 1698507575667,
+            "title": "Call Annie",
+            "icon": "https://logo.clearbit.com/callannie.ai",
+            "url": "https://callannie.ai/call"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729317888235,
+        "title": "AI",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1729317888235,
+            "title": "AI办公",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1709083557000,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1709185536000,
+                "title": "讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/?ch=nt_feb_M7l0eSM"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294812000,
+                "title": "亿图脑图MindMaster协同版",
+                "icon": "https://logo.clearbit.com/mm.edrawsoft.cn",
+                "url": "https://mm.edrawsoft.cn/app/create"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294819000,
+                "title": "iThinkScene官网 - AI智能写作工具 | 快速生成小红书图文、视频脚本、公务文案等",
+                "icon": "https://logo.clearbit.com/app.ithinkai.cn",
+                "url": "https://app.ithinkai.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294824000,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/chat/comqul1kqq4tuqkspsjg"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294827000,
+                "title": "ThinkAny - AI 搜索引擎",
+                "icon": "https://logo.clearbit.com/thinkany.ai",
+                "url": "https://thinkany.ai/zh/search/yp3psrlviva5ia"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294831000,
+                "title": "照片编辑器免费在线 |PicWish 工具",
+                "icon": "https://logo.clearbit.com/picwish.com",
+                "url": "https://picwish.com/tools"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294834000,
+                "title": "酷表ChatExcel",
+                "icon": "https://logo.clearbit.com/chatexcel.com",
+                "url": "https://chatexcel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714294837000,
+                "title": "沉浸式翻译 - 文档双语翻译 ： 一键翻译 PDF， ePub 电子书，字幕文件，txt文件",
+                "icon": "https://logo.clearbit.com/app.immersivetranslate.com",
+                "url": "https://app.immersivetranslate.com/file/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715158564000,
+                "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715166561000,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/chat/cotlbi6cp7f2ia9bkjhg"
+              },
+              {
+                "type": "link",
+                "addDate": 1715240201000,
+                "title": "HQ ICON",
+                "icon": "https://logo.clearbit.com/icon.yukonga.top",
+                "url": "https://icon.yukonga.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715566106000,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/glms"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593775000,
+                "title": "33搜帧 - 视频帧画面搜索引擎",
+                "icon": "https://logo.clearbit.com/fse.agilestudio.cn",
+                "url": "https://fse.agilestudio.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593797000,
+                "title": "AI定制背景音乐下载平台-BGM猫",
+                "icon": "https://logo.clearbit.com/bgmcat.com",
+                "url": "https://bgmcat.com/home?utm_source=AIHub.cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594620000,
+                "title": "Formularizer: AI Assistant for Spreadsheets",
+                "icon": "https://logo.clearbit.com/formularizer.com",
+                "url": "https://formularizer.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594637000,
+                "title": "Excel Formula Generator & AI Excel Tools & Business Intelligence",
+                "icon": "https://logo.clearbit.com/ajelix.com",
+                "url": "https://ajelix.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594686000,
+                "title": "Untitled 1",
+                "icon": "https://logo.clearbit.com/rows.com",
+                "url": "https://rows.com/beast-389f766f/my-spreadsheets/untitled-1-5xrShnSGPHmSHEOP9YWge8/b622b46c-1ef4-422c-9b48-bcef04267aca/edit#table1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594692000,
+                "title": "Monica - Your ChatGPT AI Assistant for Anywhere",
+                "icon": "https://logo.clearbit.com/monica.im",
+                "url": "https://monica.im/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594695000,
+                "title": "飞书妙记-智能会议纪要,快捷语音识别转文字,将会议交流沉淀为知识,一切皆可妙记!",
+                "icon": "https://logo.clearbit.com/www.feishu.cn",
+                "url": "https://www.feishu.cn/product/minutes"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594699000,
+                "title": "Timely time tracking software",
+                "icon": "https://logo.clearbit.com/timelyapp.com",
+                "url": "https://timelyapp.com/home-v3-1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594717000,
+                "title": "听悟网页版 - 现已全新升级为通义听悟",
+                "icon": "https://logo.clearbit.com/www.tingwu.cn",
+                "url": "https://www.tingwu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594721000,
+                "title": "字语智能_用智能AI创作技术引领智能写作未来",
+                "icon": "https://logo.clearbit.com/www.getgetai.com",
+                "url": "https://www.getgetai.com/home?from=AIGJDH"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594723000,
+                "title": "Humata: ChatGPT for Your Data Files",
+                "icon": "https://logo.clearbit.com/www.humata.ai",
+                "url": "https://www.humata.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594726000,
+                "title": "印象AI上线 | 印象笔记",
+                "icon": "https://logo.clearbit.com/www.yinxiang.com",
+                "url": "https://www.yinxiang.com/about/yxai-yxbj/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594759000,
+                "title": "ChatDOC - AI Chat with PDF Documents",
+                "icon": "https://logo.clearbit.com/chatdoc.com",
+                "url": "https://chatdoc.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594763000,
+                "title": "PandaGPT, file reading made easy",
+                "icon": "https://logo.clearbit.com/www.pandagpt.io",
+                "url": "https://www.pandagpt.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594773000,
+                "title": "印象图记",
+                "icon": "https://logo.clearbit.com/static.app.yinxiang.com",
+                "url": "https://static.app.yinxiang.com/evermind/product/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594777000,
+                "title": "TreeMind树图官网 - 在线AI思维导图软件 | 免费脑图模板",
+                "icon": "https://logo.clearbit.com/shutu.cn",
+                "url": "https://shutu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594780000,
+                "title": "Page Not Found | Whimsical",
+                "icon": "https://logo.clearbit.com/whimsical.com",
+                "url": "https://whimsical.com/ai-mind-maps"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594786000,
+                "title": "Xmind AI: The Mind Mapping Tool for Team Collaboration",
+                "icon": "https://logo.clearbit.com/xmind.ai",
+                "url": "https://xmind.ai/?ref=ai-bot.cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594791000,
+                "title": "Process 100% of Complex Documents | super.AI",
+                "icon": "https://logo.clearbit.com/super.ai",
+                "url": "https://super.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594799000,
+                "title": "AI Document Processing For Transactional Workflows",
+                "icon": "https://logo.clearbit.com/rossum.ai",
+                "url": "https://rossum.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594827000,
+                "title": "AI-Powered Productivity. A Second Brain for Teams | Taskade",
+                "icon": "https://logo.clearbit.com/www.taskade.com",
+                "url": "https://www.taskade.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594834000,
+                "title": "pdf转word_pdf转换成excel_pdf转换成ppt _纬来PDF转换器",
+                "icon": "https://logo.clearbit.com/www.pdfpai.com",
+                "url": "https://www.pdfpai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594838000,
+                "title": "在线转换文档，图像，视频，音频文件",
+                "icon": "https://logo.clearbit.com/www.aconvert.com",
+                "url": "https://www.aconvert.com/cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594841000,
+                "title": "PDF转Word_PDF在线转换_在线免费转换PDF文件 - HiPDF",
+                "icon": "https://logo.clearbit.com/www.hipdf.cn",
+                "url": "https://www.hipdf.cn/?zhhryxk1212"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594844000,
+                "title": "PDF转换成Word转换器在线免费 - 在线word转pdf转换器 - 迅捷PDF转换器免费版",
+                "icon": "https://logo.clearbit.com/app.xunjiepdf.com",
+                "url": "https://app.xunjiepdf.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594848000,
+                "title": "免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）",
+                "icon": "https://logo.clearbit.com/www.onlinedoctranslator.com",
+                "url": "https://www.onlinedoctranslator.com/zh-CN/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594852000,
+                "title": "PDF转Word | 免费在线PDF转Word | PDF转Word转换器 | PDF转化速度快 | 首页",
+                "icon": "https://logo.clearbit.com/www.alltoall.net",
+                "url": "https://www.alltoall.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594880000,
+                "title": "Web Apps by 123apps - 编辑、转换、创建",
+                "icon": "https://logo.clearbit.com/123apps.com",
+                "url": "https://123apps.com/cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594883000,
+                "title": "在线转换器 - 转换文件成为视频, 音乐, 图像, PDF - Office-Converter.com",
+                "icon": "https://logo.clearbit.com/cn.office-converter.com",
+                "url": "https://cn.office-converter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594885000,
+                "title": "iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具",
+                "icon": "https://logo.clearbit.com/www.ilovepdf.com",
+                "url": "https://www.ilovepdf.com/zh-cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594888000,
+                "title": "超级PDF|简单强大的PDF在线处理工具",
+                "icon": "https://logo.clearbit.com/xpdf.cn",
+                "url": "https://xpdf.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597766000,
+                "title": "47 Free PDF Tools Online – PDF Candy",
+                "icon": "https://logo.clearbit.com/pdfcandy.com",
+                "url": "https://pdfcandy.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597770000,
+                "title": "banber.com数据简报",
+                "icon": "https://logo.clearbit.com/www.banber.com",
+                "url": "https://www.banber.com/library"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597775000,
+                "title": "NB 3D Charts",
+                "icon": "https://logo.clearbit.com/www.pslkzs.com",
+                "url": "https://www.pslkzs.com/chart/charts.php?loginSuccess=true"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597779000,
+                "title": "ChartCube - 在线图表制作工具",
+                "icon": "https://logo.clearbit.com/chartcube.alipay.com",
+                "url": "https://chartcube.alipay.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597783000,
+                "title": "Apache ECharts",
+                "icon": "https://logo.clearbit.com/echarts.apache.org",
+                "url": "https://echarts.apache.org/zh/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597786000,
+                "title": "Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网",
+                "icon": "https://logo.clearbit.com/www.canva.cn",
+                "url": "https://www.canva.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597791000,
+                "title": "Create Infographics, Reports and Maps - Infogram",
+                "icon": "https://logo.clearbit.com/infogram.com",
+                "url": "https://infogram.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597798000,
+                "title": "Discover | Tableau Public",
+                "icon": "https://logo.clearbit.com/public.tableau.com",
+                "url": "https://public.tableau.com/app/discover"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597801000,
+                "title": "ChartCool - 免费在线图表制作软件,数据可视化工具",
+                "icon": "https://logo.clearbit.com/www.ichartcool.com",
+                "url": "https://www.ichartcool.com/zh/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597806000,
+                "title": "镝数图表-在线动态图表工具-零代码数据大屏可视化",
+                "icon": "https://logo.clearbit.com/dycharts.com",
+                "url": "https://dycharts.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597811000,
+                "title": "极简风-个性化仪表盘",
+                "icon": "https://logo.clearbit.com/www.jiandaoyun.com",
+                "url": "https://www.jiandaoyun.com/template/5fe54e75b1805400078abf3d?utm_src=fazxgxhsspdsx#/app/5fe54e75b1805400078abf3d/dash/5fe409d84b5cc20006d6d0af"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597815000,
+                "title": "Flourish | Data Visualization & Storytelling",
+                "icon": "https://logo.clearbit.com/flourish.studio",
+                "url": "https://flourish.studio/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597837000,
+                "title": "花火数图Hanabi-在线数据短视频工具-数可视",
+                "icon": "https://logo.clearbit.com/hanabi.data-viz.cn",
+                "url": "https://hanabi.data-viz.cn/templates?lang=zh-CN"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888241,
+            "title": "ＡI导航网站",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1713234873000,
+                "title": "灵鹿Ai导航页 - 浏览器新标签起始页",
+                "icon": "https://logo.clearbit.com/nav.linglu.pro",
+                "url": "https://nav.linglu.pro/"
+              },
+              {
+                "type": "link",
+                "addDate": 1705571063000,
+                "title": "LKs - 良心到难以置信的网站推荐",
+                "icon": "https://logo.clearbit.com/lkssite.vip",
+                "url": "https://lkssite.vip/"
+              },
+              {
+                "type": "link",
+                "addDate": 1708425900000,
+                "title": "未来百科 | 为发现全球优质AI工具产品而生",
+                "icon": "https://logo.clearbit.com/nav.6aiq.com",
+                "url": "https://nav.6aiq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1708427113000,
+                "title": "AIGC工具导航 | 生成式AI导航-全品类AI工具集合平台!",
+                "icon": "https://logo.clearbit.com/www.aigc.cn",
+                "url": "https://www.aigc.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714028438000,
+                "title": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+                "icon": "https://logo.clearbit.com/www.waytoagi.com",
+                "url": "https://www.waytoagi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715050959000,
+                "title": "AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全",
+                "icon": "https://logo.clearbit.com/ai-bot.cn",
+                "url": "https://ai-bot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715239009000,
+                "title": "在线视频下载器 - 免费下载任何视频 - VideoFk",
+                "icon": "https://logo.clearbit.com/www.videofk.com",
+                "url": "https://www.videofk.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888242,
+            "title": "AI写作工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715593969000,
+                "title": "秘塔写作猫",
+                "icon": "https://logo.clearbit.com/xiezuocat.com",
+                "url": "https://xiezuocat.com/?s=aigj"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593980000,
+                "title": "火龙果—轻松写作",
+                "icon": "https://logo.clearbit.com/www.mypitaya.com",
+                "url": "https://www.mypitaya.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593987000,
+                "title": "Future proof your business with GTM AI",
+                "icon": "https://logo.clearbit.com/www.copy.ai",
+                "url": "https://www.copy.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593999000,
+                "title": "Jasper | AI copilot for enterprise marketing teams",
+                "icon": "https://logo.clearbit.com/www.jasper.ai",
+                "url": "https://www.jasper.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594009000,
+                "title": "Writesonic - Best AI Writer, AI SEO Toolkit & Custom AI Chatbots",
+                "icon": "https://logo.clearbit.com/writesonic.com",
+                "url": "https://writesonic.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594017000,
+                "title": "火山写作",
+                "icon": "https://logo.clearbit.com/www.writingo.net",
+                "url": "https://www.writingo.net/document?source=gj1&docId=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594025000,
+                "title": "Use Notion AI to write better, more efficient notes and docs",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/help/guides/notion-ai-for-docs"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594035000,
+                "title": "万彩AI - AI智能写作生成神器,AI数字人制作,AI短视频制作",
+                "icon": "https://logo.clearbit.com/ai.kezhan365.com",
+                "url": "https://ai.kezhan365.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594045000,
+                "title": "DeepL Write：人工智能驱动的写作助手",
+                "icon": "https://logo.clearbit.com/www.deepl.com",
+                "url": "https://www.deepl.com/write"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594297000,
+                "title": "阿里妈妈 创意中心 - 智能文案",
+                "icon": "https://logo.clearbit.com/chuangyi.taobao.com",
+                "url": "https://chuangyi.taobao.com/pages/aiCopy"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594309000,
+                "title": "HeyFriday - 智能AI写作工具（星期五）",
+                "icon": "https://logo.clearbit.com/www.heyfriday.cn",
+                "url": "https://www.heyfriday.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594315000,
+                "title": "讯飞智检-智能AI写作、文档纠错校对、文本图像合规检测平台",
+                "icon": "https://logo.clearbit.com/zj.xfyun.cn",
+                "url": "https://zj.xfyun.cn/exam/text"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594325000,
+                "title": "Peppertype.ai | Create Quality Content Faster",
+                "icon": "https://logo.clearbit.com/www.peppercontent.io",
+                "url": "https://www.peppercontent.io/peppertype-ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725242197000,
+                "title": "倩言AI写作",
+                "icon": "https://logo.clearbit.com/www.qianyanlab.com",
+                "url": "https://www.qianyanlab.com/areas/qianyan/write/en/#/writing"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594339000,
+                "title": "",
+                "icon": "https://logo.clearbit.com/security.feishu.cn",
+                "url": "https://security.feishu.cn/link/safety?target=https%3A%2F%2Fspell.tools%2F&scene=ccm&logParams=%7B%22location%22%3A%22ccm_bitable%22%7D&lang=zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594374000,
+                "title": "spell.tools | 522: Connection timed out",
+                "icon": "https://logo.clearbit.com/spell.tools",
+                "url": "https://spell.tools/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888244,
+            "title": "AI图片处理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715590127000,
+                "title": "Upscayl - Free AI Image Upscaler",
+                "icon": "https://logo.clearbit.com/www.upscayl.org",
+                "url": "https://www.upscayl.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590148000,
+                "title": "ARC官网-腾讯",
+                "icon": "https://logo.clearbit.com/arc.tencent.com",
+                "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590158000,
+                "title": "文心一格 - AI艺术和创意辅助平台",
+                "icon": "https://logo.clearbit.com/yige.baidu.com",
+                "url": "https://yige.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590163000,
+                "title": "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+                "icon": "https://logo.clearbit.com/bigjpg.com",
+                "url": "https://bigjpg.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590179000,
+                "title": "消除或者替换图像背景，无需上传图像 - BgSub",
+                "icon": "https://logo.clearbit.com/bgsub.cn",
+                "url": "https://bgsub.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590189000,
+                "title": "删除照片中的物体 | Magic Eraser by Magic Studio",
+                "icon": "https://logo.clearbit.com/magicstudio.com",
+                "url": "https://magicstudio.com/zh/magiceraser/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590196000,
+                "title": "Create stunning visuals in seconds with AI.",
+                "icon": "https://logo.clearbit.com/clipdrop.co",
+                "url": "https://clipdrop.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590207000,
+                "title": "【抠图】在线抠图软件-在线ps抠图换背景工具-创客贴",
+                "icon": "https://logo.clearbit.com/beta.chuangkit.com",
+                "url": "https://beta.chuangkit.com/koutu"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590238000,
+                "title": "免費去背景軟體：在线抠图软件_图片去除背景 - Erase.bg",
+                "icon": "https://logo.clearbit.com/www.erase.bg",
+                "url": "https://www.erase.bg/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590252000,
+                "title": "AI 图像擦除器 - 擦除照片中的人、物体、文字、徽标、水印 - hama.app",
+                "icon": "https://logo.clearbit.com/www.hama.app",
+                "url": "https://www.hama.app/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590276000,
+                "title": "Remove any background from your photos automatically",
+                "icon": "https://logo.clearbit.com/purephotos.app",
+                "url": "https://purephotos.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590282000,
+                "title": "删除背景：Pixlr.com免费图像背景删除",
+                "icon": "https://logo.clearbit.com/pixlr.com",
+                "url": "https://pixlr.com/cn/remove-background/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590295000,
+                "title": "免费批量图像背景去除器 - 从在线图像中去除背景 | Cutout.pro",
+                "icon": "https://logo.clearbit.com/www.cutout.pro",
+                "url": "https://www.cutout.pro/zh-CN/remove-background"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590302000,
+                "title": "在线抠图软件_图片去除背景 | remove.bg – remove.bg",
+                "icon": "https://logo.clearbit.com/www.remove.bg",
+                "url": "https://www.remove.bg/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590309000,
+                "title": "佐糖 - 在线图片处理工具_在线抠图_证件照换底色_去水印_照片修复",
+                "icon": "https://logo.clearbit.com/picwish.cn",
+                "url": "https://picwish.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590314000,
+                "title": "【抠图】在线抠图软件_ps抠图证件照换底色-稿定设计",
+                "icon": "https://logo.clearbit.com/www.gaoding.com",
+                "url": "https://www.gaoding.com/koutu"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590319000,
+                "title": "Select Video or GIF – Unscreen",
+                "icon": "https://logo.clearbit.com/www.unscreen.com",
+                "url": "https://www.unscreen.com/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590324000,
+                "title": "淘宝网 - 淘！我喜欢",
+                "icon": "https://logo.clearbit.com/login.taobao.com",
+                "url": "https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Falidesign.taobao.com%2Fwork.htm#/iframe/wantoo"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590333000,
+                "title": "Photo Editor | Free Image Editing Online - PhotoKit.com",
+                "icon": "https://logo.clearbit.com/photokit.com",
+                "url": "https://photokit.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590341000,
+                "title": "水印去除剂 - 删除照片中的任何水印",
+                "icon": "https://logo.clearbit.com/www.watermarkremover.io",
+                "url": "https://www.watermarkremover.io/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590362000,
+                "title": "Freepik | Create great designs, faster",
+                "icon": "https://logo.clearbit.com/www.freepik.com",
+                "url": "https://www.freepik.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590381000,
+                "title": "Remove Background from Image, Free, No Signup - Pixian.AI",
+                "icon": "https://logo.clearbit.com/pixian.ai",
+                "url": "https://pixian.ai/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888246,
+            "title": "AI设计工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715590432000,
+                "title": "Microsoft Designer - Stunning designs in a flash",
+                "icon": "https://logo.clearbit.com/designer.microsoft.com",
+                "url": "https://designer.microsoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590444000,
+                "title": "Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网",
+                "icon": "https://logo.clearbit.com/www.canva.cn",
+                "url": "https://www.canva.cn/?display-com-option=true"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590452000,
+                "title": "Designs.ai - Creative work done effortlessly",
+                "icon": "https://logo.clearbit.com/designs.ai",
+                "url": "https://designs.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590467000,
+                "title": "Galileo AI",
+                "icon": "https://logo.clearbit.com/www.usegalileo.ai",
+                "url": "https://www.usegalileo.ai/explore"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590475000,
+                "title": "illostrationAI",
+                "icon": "https://logo.clearbit.com/www.illostration.com",
+                "url": "https://www.illostration.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593546000,
+                "title": "Uizard | UI Design Made Easy, Powered By AI | Sign Up Free",
+                "icon": "https://logo.clearbit.com/uizard.io",
+                "url": "https://uizard.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593555000,
+                "title": "Illustroke | Vector illustrations from text prompts AI",
+                "icon": "https://logo.clearbit.com/illustroke.com",
+                "url": "https://illustroke.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593648000,
+                "title": "Magician for Figma",
+                "icon": "https://logo.clearbit.com/magician.design",
+                "url": "https://magician.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593662000,
+                "title": "Free Logo Maker | Create Your Own Logo Design | Logomaster.ai",
+                "icon": "https://logo.clearbit.com/logomaster.ai",
+                "url": "https://logomaster.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593675000,
+                "title": "Build Beautiful Landing Pages Instantly With AI | Makelanding",
+                "icon": "https://logo.clearbit.com/makelanding.ai",
+                "url": "https://makelanding.ai/?ref=landingai"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593697000,
+                "title": "MagicRoomAI",
+                "icon": "https://logo.clearbit.com/magicroom.ai",
+                "url": "https://magicroom.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593720000,
+                "title": "Adobe Firefly - 創意人適用的免費生成式 AI",
+                "icon": "https://logo.clearbit.com/www.adobe.com",
+                "url": "https://www.adobe.com/tw/products/firefly.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593741000,
+                "title": "LeiaPix",
+                "icon": "https://logo.clearbit.com/convert.leiapix.com",
+                "url": "https://convert.leiapix.com/upload"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593759000,
+                "title": "AIDesign",
+                "icon": "https://logo.clearbit.com/ailogo.qq.com",
+                "url": "https://ailogo.qq.com/guide/brandname"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888247,
+            "title": "AI生图工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715590091000,
+                "title": "Midjourney",
+                "icon": "https://logo.clearbit.com/www.midjourney.com",
+                "url": "https://www.midjourney.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590107000,
+                "title": "Stable Diffusion Online",
+                "icon": "https://logo.clearbit.com/stablediffusionweb.com",
+                "url": "https://stablediffusionweb.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715590120000,
+                "title": "必应",
+                "icon": "https://logo.clearbit.com/cn.bing.com",
+                "url": "https://cn.bing.com/?form=REDIRERR"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598401000,
+                "title": "AI提示语 - AI 艺术作品创作 - 创建图像、视频、声音等更多内容",
+                "icon": "https://logo.clearbit.com/www.tishi.top",
+                "url": "https://www.tishi.top/art/square/gallery/?invite=er36Jf"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598421000,
+                "title": "NEX: The World’s Most Controllable AI Image Generator | NEX",
+                "icon": "https://logo.clearbit.com/www.nex.art",
+                "url": "https://www.nex.art/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598439000,
+                "title": "LiblibAI·哩布哩布AI - 中国领先的AI创作平台",
+                "icon": "https://logo.clearbit.com/www.liblib.art",
+                "url": "https://www.liblib.art/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598454000,
+                "title": "XCole千言万象-智能AI写作、AI绘图绘画工具",
+                "icon": "https://logo.clearbit.com/www.xcole.cn",
+                "url": "https://www.xcole.cn/?s=7914623a&seed=1715598450"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598465000,
+                "title": "Moonlight",
+                "icon": "https://logo.clearbit.com/www.moontak.com",
+                "url": "https://www.moontak.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598487000,
+                "title": "AnyPaint - AI时代, 美术爱好者的专业工作台",
+                "icon": "https://logo.clearbit.com/anypaint.art",
+                "url": "https://anypaint.art/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598502000,
+                "title": "画宇宙 - 人工智能 AI 作画网站",
+                "icon": "https://logo.clearbit.com/creator.nolipix.com",
+                "url": "https://creator.nolipix.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598533000,
+                "title": "AI Creator - | 创作者AI",
+                "icon": "https://logo.clearbit.com/ai-creator.net",
+                "url": "https://ai-creator.net/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888248,
+            "title": "AI-PPT制作",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715594383000,
+                "title": "Tome — More effective business presentations",
+                "icon": "https://logo.clearbit.com/tome.app",
+                "url": "https://tome.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594393000,
+                "title": "ChatBA: Generative AI for Slides ✨",
+                "icon": "https://logo.clearbit.com/www.chatba.com",
+                "url": "https://www.chatba.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594399000,
+                "title": "免费ai ppt制作工具 - ai生成ppt - 美图设计室",
+                "icon": "https://logo.clearbit.com/www.x-design.com",
+                "url": "https://www.x-design.com/ppt/?ref=ai-bot.cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594404000,
+                "title": "Gamma",
+                "icon": "https://logo.clearbit.com/gamma.app",
+                "url": "https://gamma.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594409000,
+                "title": "Decktopus AI",
+                "icon": "https://logo.clearbit.com/www.decktopus.com",
+                "url": "https://www.decktopus.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594414000,
+                "title": "Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai",
+                "icon": "https://logo.clearbit.com/www.beautiful.ai",
+                "url": "https://www.beautiful.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594420000,
+                "title": "首页 - MindShow官网 - AI 生成 PPT，让想法快速展示",
+                "icon": "https://logo.clearbit.com/www.mindshow.fun",
+                "url": "https://www.mindshow.fun/?ref=ai-bot.cn#/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594424000,
+                "title": "Chronicle",
+                "icon": "https://logo.clearbit.com/chroniclehq.com",
+                "url": "https://chroniclehq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594431000,
+                "title": "PowerMode",
+                "icon": "https://logo.clearbit.com/powermodeai.com",
+                "url": "https://powermodeai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594451000,
+                "title": "Create presentations, docs & websites with AI | Prezo",
+                "icon": "https://logo.clearbit.com/prezo.ai",
+                "url": "https://prezo.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594456000,
+                "title": "Powerpresent AI - Create powerful presentations with AI",
+                "icon": "https://logo.clearbit.com/powerpresent.ai",
+                "url": "https://powerpresent.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594479000,
+                "title": "MyReport by alaba a.i.",
+                "icon": "https://logo.clearbit.com/myreport.alaba.ai",
+                "url": "https://myreport.alaba.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594488000,
+                "title": "MotionIt AI",
+                "icon": "https://logo.clearbit.com/www.motionit.ai",
+                "url": "https://www.motionit.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594531000,
+                "title": "GPT for Slides - Create Presentation With AI in seconds",
+                "icon": "https://logo.clearbit.com/www.gptforslides.app",
+                "url": "https://www.gptforslides.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594544000,
+                "title": "Presentation software for fast-moving teams | Pitch",
+                "icon": "https://logo.clearbit.com/pitch.com",
+                "url": "https://pitch.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594553000,
+                "title": "Slidebean Founder Platform: Create your Pitch Deck & Raise Funds",
+                "icon": "https://logo.clearbit.com/slidebean.com",
+                "url": "https://slidebean.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594561000,
+                "title": "使用SlidesAI的AI在几秒钟内创建演示文稿幻灯片",
+                "icon": "https://logo.clearbit.com/www.slidesai.io",
+                "url": "https://www.slidesai.io/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594568000,
+                "title": "MagicSlides - Create Presentatin from Topic, YouTube, PDF, URL with AI",
+                "icon": "https://logo.clearbit.com/www.magicslides.app",
+                "url": "https://www.magicslides.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594588000,
+                "title": "STORYD - Business presentations leaders love, in seconds",
+                "icon": "https://logo.clearbit.com/www.storyd.ai",
+                "url": "https://www.storyd.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594598000,
+                "title": "Presentations.AI - ChatGPT for Presentations",
+                "icon": "https://logo.clearbit.com/www.presentations.ai",
+                "url": "https://www.presentations.ai/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888250,
+            "title": "阿里AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715597848000,
+                "title": "AI工具箱—阿里云",
+                "icon": "https://logo.clearbit.com/startup.aliyun.com",
+                "url": "https://startup.aliyun.com/special/aitools"
+              },
+              {
+                "type": "link",
+                "addDate": 1715597861000,
+                "title": "DDColor图像上色 · 模型库",
+                "icon": "https://logo.clearbit.com/www.modelscope.cn",
+                "url": "https://www.modelscope.cn/models/iic/cv_ddcolor_image-colorization/summary/?ref=pidoutv.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715158184000,
+                "title": "通义",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598054000,
+                "title": "Change Face With AI",
+                "icon": "https://logo.clearbit.com/www.changeface.online",
+                "url": "https://www.changeface.online/?ref=top.aibase.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598062000,
+                "title": "Motionshop-Replace the characters in video with 3D avatars",
+                "icon": "https://logo.clearbit.com/aigc3d.github.io",
+                "url": "https://aigc3d.github.io/motionshop/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598071000,
+                "title": "Animate Anyone",
+                "icon": "https://logo.clearbit.com/humanaigc.github.io",
+                "url": "https://humanaigc.github.io/animate-anyone/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598080000,
+                "title": "AnyText图文融合 · 创空间",
+                "icon": "https://logo.clearbit.com/modelscope.cn",
+                "url": "https://modelscope.cn/studios/iic/studio_anytext/summary"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598087000,
+                "title": "通义万相_AI创意作画_AI绘画_人工智能-阿里云",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/wanxiang/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598093000,
+                "title": "通义灵码_智能编码助手_AI编程-阿里云",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/lingma"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598099000,
+                "title": "通义晓蜜",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/xiaomi"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598105000,
+                "title": "通义点金-Fin Chat",
+                "icon": "https://logo.clearbit.com/dianjin.biz.aliyun.com",
+                "url": "https://dianjin.biz.aliyun.com/#/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598112000,
+                "title": "通义法睿 法律大模型 法律智能体 法律AI 人工智能-阿里云",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/farui"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598123000,
+                "title": "通义仁心",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/renxin"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598137000,
+                "title": "EMO",
+                "icon": "https://logo.clearbit.com/humanaigc.github.io",
+                "url": "https://humanaigc.github.io/emote-portrait-alive/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598153000,
+                "title": "ArtLab",
+                "icon": "https://logo.clearbit.com/artlab.harvard.edu",
+                "url": "https://artlab.harvard.edu/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598158000,
+                "title": "通义智文_AI助手_文档阅读_人工智能-阿里云",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/zhiwen"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888251,
+            "title": "腾讯AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715598184000,
+                "title": "GitHub - Zejun-Yang/AniPortrait: AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Zejun-Yang/AniPortrait?tab=readme-ov-file#aniportrait"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598194000,
+                "title": "PhotoMaker",
+                "icon": "https://logo.clearbit.com/photo-maker.github.io",
+                "url": "https://photo-maker.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715594305000,
+                "title": "Effidit",
+                "icon": "https://logo.clearbit.com/effidit.qq.com",
+                "url": "https://effidit.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598209000,
+                "title": "腾讯交互翻译TranSmart",
+                "icon": "https://logo.clearbit.com/transmart.qq.com",
+                "url": "https://transmart.qq.com/zh-CN/intro"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598214000,
+                "title": "腾讯混元",
+                "icon": "https://logo.clearbit.com/hunyuan.tencent.com",
+                "url": "https://hunyuan.tencent.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598219000,
+                "title": "腾讯智影-在线智能视频创作平台",
+                "icon": "https://logo.clearbit.com/zenvideo.qq.com",
+                "url": "https://zenvideo.qq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598226000,
+                "title": "腾讯云 AI 代码助手",
+                "icon": "https://logo.clearbit.com/cloud.tencent.com",
+                "url": "https://cloud.tencent.com/product/acc"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598232000,
+                "title": "腾讯优图AI开放平台 — 顶级的人工智能服务，多元化的行业解决方案",
+                "icon": "https://logo.clearbit.com/open.youtu.qq.com",
+                "url": "https://open.youtu.qq.com/#/open"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598237000,
+                "title": "腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档",
+                "icon": "https://logo.clearbit.com/docs.qq.com",
+                "url": "https://docs.qq.com/?ref=ai-bot.cn"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888253,
+            "title": "字节AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715598247000,
+                "title": "MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation",
+                "icon": "https://logo.clearbit.com/magicvideov2.github.io",
+                "url": "https://magicvideov2.github.io/?ref=top.aibase.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598259000,
+                "title": "Coze: Next-Gen AI Chatbot Developing Platform",
+                "icon": "https://logo.clearbit.com/www.coze.com",
+                "url": "https://www.coze.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598274000,
+                "title": "Anydoor",
+                "icon": "https://logo.clearbit.com/www.anybagel.com",
+                "url": "https://www.anybagel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598283000,
+                "title": "豆包 - 抖音旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598292000,
+                "title": "ChitChop",
+                "icon": "https://logo.clearbit.com/www.chitchop.com",
+                "url": "https://www.chitchop.com/tool"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598299000,
+                "title": "Boximator: Generating Rich and Controllable Motions for Video Synthesis",
+                "icon": "https://logo.clearbit.com/boximator.github.io",
+                "url": "https://boximator.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598327000,
+                "title": "即梦Dreamina - 用简单的文案，创作精彩的图片和视频",
+                "icon": "https://logo.clearbit.com/dreamina.jianying.com",
+                "url": "https://dreamina.jianying.com/ai-tool/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598337000,
+                "title": "MagicAvatar: Multi-modal Avatar Generation and Animation",
+                "icon": "https://logo.clearbit.com/magic-avatar.github.io",
+                "url": "https://magic-avatar.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598343000,
+                "title": "火山写作",
+                "icon": "https://logo.clearbit.com/www.writingo.net",
+                "url": "https://www.writingo.net/document?docId=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598349000,
+                "title": "火山引擎-云上增长新动力",
+                "icon": "https://logo.clearbit.com/www.volcengine.com",
+                "url": "https://www.volcengine.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715598394000,
+                "title": "AI画一画 - AI提示语旗下AI绘画创作助手 | AIGC工具导航",
+                "icon": "https://logo.clearbit.com/www.aigc.cn",
+                "url": "https://www.aigc.cn/sites/10899.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888254,
+            "title": "AI配色",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715593600000,
+                "title": "Eva Design System: Deep learning color generator",
+                "icon": "https://logo.clearbit.com/colors.eva.design",
+                "url": "https://colors.eva.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593610000,
+                "title": "Color Wheel - get color ideas for your logo, illustration or web design",
+                "icon": "https://logo.clearbit.com/brandmark.io",
+                "url": "https://brandmark.io/color-wheel/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593627000,
+                "title": "Huemint - AI color palette generator",
+                "icon": "https://logo.clearbit.com/huemint.com",
+                "url": "https://huemint.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593640000,
+                "title": "Data Science without Code | Obviously AI",
+                "icon": "https://logo.clearbit.com/www.obviously.ai",
+                "url": "https://www.obviously.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593750000,
+                "title": "Khroma - The AI color tool for designers",
+                "icon": "https://logo.clearbit.com/www.khroma.co",
+                "url": "https://www.khroma.co/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729317888254,
+            "title": "AI生图提示词",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715593854000,
+                "title": "词魂-免费提供AI绘画使用的AI提示词(promt)、AI咒语",
+                "icon": "https://logo.clearbit.com/www.icihun.com",
+                "url": "https://www.icihun.com/?refer=17yongai.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593863000,
+                "title": "大琥MJ常用描述词样式库 | 颜色",
+                "icon": "https://logo.clearbit.com/big-amber.notion.site",
+                "url": "https://big-amber.notion.site/081d174233c14596a298560f98eeb212?v=c5910e99a7e74dc199eec40dffd3a392"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593871000,
+                "title": "Midjourney Library of Artihttps://docs.google.com/spreadsheets/u/0/?authuser=0&usp=sheets_webst Styles - Google 表格",
+                "icon": "https://logo.clearbit.com/docs.google.com",
+                "url": "https://docs.google.com/spreadsheets/d/1cm6239gw1XvvDMRtazV6txa9pnejpKkM5z24wRhhFz0/edit?ref=openi.cn#gid=400749539"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593884000,
+                "title": "Andrei Kovalev's Midlibrary: Midjourney AI Styles Library and Guide",
+                "icon": "https://logo.clearbit.com/midlibrary.io",
+                "url": "https://midlibrary.io/?refer=17yongai.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593894000,
+                "title": "Cute Creatures Prompt - Public Prompts",
+                "icon": "https://logo.clearbit.com/publicprompts.art",
+                "url": "https://publicprompts.art/cute-creatures/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593903000,
+                "title": "Designers | Midjourney AI Styles | Andrei Kovalev's Midlibrary",
+                "icon": "https://logo.clearbit.com/midlibrary.io",
+                "url": "https://midlibrary.io/categories/designers"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593911000,
+                "title": "OPS 提示词工作室 | 可视化编辑提示词 | 一键翻译 AIGC 提示词 | Midjourney 提示词 | OpenPromptStudio made by Moonvy 月维",
+                "icon": "https://logo.clearbit.com/moonvy.com",
+                "url": "https://moonvy.com/apps/ops/?refer=17yongai.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593922000,
+                "title": "Midjourney Prompt Generator: Helps You Build The Perfect Prompt!",
+                "icon": "https://logo.clearbit.com/promptfolder.com",
+                "url": "https://promptfolder.com/midjourney-prompt-helper/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593929000,
+                "title": "Visual Prompt Builder",
+                "icon": "https://logo.clearbit.com/tools.saxifrage.xyz",
+                "url": "https://tools.saxifrage.xyz/prompt"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593937000,
+                "title": "BetterPrompt - Make Your Midjourney Prompt Better!",
+                "icon": "https://logo.clearbit.com/better.avatarprompt.net",
+                "url": "https://better.avatarprompt.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593948000,
+                "title": "Prompt Silo from Pheeds.com",
+                "icon": "https://logo.clearbit.com/pheeds.com",
+                "url": "https://pheeds.com/PromptSilo.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1715593955000,
+                "title": "IMI Prompt: Midjourney Prompt Generator v5",
+                "icon": "https://logo.clearbit.com/www.imiprompt.com",
+                "url": "https://www.imiprompt.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1636447237365,
+        "title": "地图",
+        "icon": "https://logo.clearbit.com/maps.google.com",
+        "url": "https://maps.google.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1723966482501,
+        "title": "高德地图",
+        "icon": "https://logo.clearbit.com/ditu.amap.com",
+        "url": "https://ditu.amap.com/?amapexchange=%2F"
+      },
+      {
+        "type": "link",
+        "addDate": 1696942335144,
+        "title": "github",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "http://github.com/"
+      }
+    ]
+  }
+]
